@@ -1,0 +1,16 @@
+{
+  "name": "rest-apis",
+  "version": "1.0.0",
+  "description": "Creating REST APIs .  TECH - html , css , js , nodeJS , EJS , Express.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Abhishek Anand",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.1"
+  }
+}
